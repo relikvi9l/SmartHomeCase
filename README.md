@@ -57,10 +57,11 @@
 - 📄 DFD (контекстный уровень)  
 - 📄 DFD (логический уровень)  
 - 📄 ER-диаграмма + словарь данных  
-- 📄 Описание MVP  
+- 📄 [Описание MVP](https://miro.com/app/board/uXjVJ2Hdj5Y=/?share_link_id=633424546677)  ссылка
 - 📄 Программа и методика испытаний (ПМИ)  
-- 🎨 Интерактивные прототипы экранов (Figma)  
-- 🎥 Презентация проекта  
+- 🎨 [Интерактивные прототипы экранов (Figma):](https://www.figma.com/proto/3MshFEwfgW8TDGsR0PJ0Zi/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=19701-579&t=1TfPBd1eEMN9pwam-1)  ссылка
+- 🎨 [Схема прототипов Figma](https://www.figma.com/design/3MshFEwfgW8TDGsR0PJ0Zi/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=19701-579&m=dev&t=1TfPBd1eEMN9pwam-1)
+- 🎥 [Презентация проекта](https://disk.yandex.ru/i/yUG7ojkENPdUnwм)    
 
 ## 🧪 Валидация
 - требования валидировались через интерактивные прототипы  
@@ -76,7 +77,6 @@
 ## 🧰 Инструменты и нотации
 - DFD  
 - ER  
-- User Stories  
+- [User Stories](https://miro.com/app/board/uXjVJ2Hdj5Y=/?share_link_id=633424546677)  
 - ПМИ  
-- Figma  
-- Notion
+- [Figma](https://www.figma.com/design/3MshFEwfgW8TDGsR0PJ0Zi/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets--Copy-?node-id=19701-579&m=dev&t=HUXciBMO4Ug9Hwvn-1)  
